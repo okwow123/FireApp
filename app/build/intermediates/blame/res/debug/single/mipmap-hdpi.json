@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/ilovejsp/android/firebase/FireApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/ilovejsp/android/firebase/FireApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
