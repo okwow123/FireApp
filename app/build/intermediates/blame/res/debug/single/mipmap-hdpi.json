@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_tab_unselected_white_24dp.png",
+        "source": "/home/ilovejsp/android/firebase/FireApp/app/src/main/res/mipmap-hdpi/ic_tab_unselected_white_24dp.png"
+    },
+    {
         "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/ilovejsp/android/firebase/FireApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/ilovejsp/android/firebase/FireApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_add_circle_black_24dp.png",
+        "source": "/home/ilovejsp/android/firebase/FireApp/app/src/main/res/mipmap-hdpi/ic_add_circle_black_24dp.png"
     }
 ]
