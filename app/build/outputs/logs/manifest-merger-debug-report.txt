@@ -80,6 +80,7 @@ ADDED from /home/ilovejsp/android/firebase/FireApp/app/src/main/AndroidManifest.
 		ADDED from /home/ilovejsp/android/firebase/FireApp/app/src/main/AndroidManifest.xml:24:13-59
 uses-sdk
 INJECTED from /home/ilovejsp/android/firebase/FireApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /root/.android/build-cache/6eed5e490e43cbd0c8dafe22b4de499a4749682c/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/4aaa6df52ff21fcbd1ef99a509f4f926f33e8ebc/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/36aeb257cafde24520dfb8273fc0603dbf847e33/output/AndroidManifest.xml:20:5-44
@@ -117,6 +118,14 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/bu
 	android:minSdkVersion
 		INJECTED from /home/ilovejsp/android/firebase/FireApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ilovejsp/android/firebase/FireApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:0.4.0] /root/.android/build-cache/6eed5e490e43cbd0c8dafe22b4de499a4749682c/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-crash:9.2.0] /root/.android/build-cache/86b977cc575c21295086b3660e16cc1d4ce91303/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /root/.android/build-cache/41b25903c69c1340afa451dc8ce75bd38c3106f3/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /root/.android/build-cache/b46329f546354ba1fc090018cfbd83113739757f/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /root/.android/build-cache/3a7b2d12e5221ca2488cfdbac5c96ad95ea91c09/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.4.0] /root/.android/build-cache/6eed5e490e43cbd0c8dafe22b4de499a4749682c/output/AndroidManifest.xml:11:22-64
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/4aaa6df52ff21fcbd1ef99a509f4f926f33e8ebc/output/AndroidManifest.xml:22:5-24:41
@@ -133,13 +142,6 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/bu
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/AndroidManifest.xml:27:9-38
 	android:name
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/AndroidManifest.xml:26:9-47
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-crash:9.2.0] /root/.android/build-cache/86b977cc575c21295086b3660e16cc1d4ce91303/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:9.2.0] /root/.android/build-cache/41b25903c69c1340afa451dc8ce75bd38c3106f3/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /root/.android/build-cache/b46329f546354ba1fc090018cfbd83113739757f/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.2.0] /root/.android/build-cache/3a7b2d12e5221ca2488cfdbac5c96ad95ea91c09/output/AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-crash:9.2.0] /root/.android/build-cache/86b977cc575c21295086b3660e16cc1d4ce91303/output/AndroidManifest.xml:20:22-64
 service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
 ADDED from [com.google.firebase:firebase-crash:9.2.0] /root/.android/build-cache/86b977cc575c21295086b3660e16cc1d4ce91303/output/AndroidManifest.xml:26:9-27:50
 	android:process

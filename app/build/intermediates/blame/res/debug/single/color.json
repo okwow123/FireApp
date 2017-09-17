@@ -16,12 +16,12 @@
         "source": "/root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
         "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/3bd93ffe96677c94c0840d5f76b14287ba82521d/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/home/ilovejsp/android/firebase/FireApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",

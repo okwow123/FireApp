@@ -78,12 +78,12 @@ public class PostActivity extends AppCompatActivity {
 
             private void startPosting() {
                 mProgress.setMessage("Posting to Blog ...");
-                mProgress.show();
 
                 final String title_val = mPostTitle.getText().toString().trim();
                 final String desc_val = mPostDesc.getText().toString().trim();
 
                 if(!TextUtils.isEmpty(title_val) && !TextUtils.isEmpty(desc_val) && mImageUri!=null){
+                    mProgress.show();
                     StorageReference filepath = mStorage.child("Blog_Image").child(mImageUri.getLastPathSegment());
 
                     filepath.putFile(mImageUri).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
